@@ -1,0 +1,6 @@
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_WorkflowEngine.Tests
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\obj\Debug\net8.0\WorkflowEngine.Tests.csproj.AssemblyReference.cache
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\obj\Debug\net8.0\WorkflowEngine.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\obj\Debug\net8.0\WorkflowEngine.Tests.AssemblyInfoInputs.cache
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\obj\Debug\net8.0\WorkflowEngine.Tests.AssemblyInfo.cs
+C:\Users\gopal\OneDrive\Documents\project_oa\WorkflowEngine.Tests\obj\Debug\net8.0\WorkflowEngine.Tests.csproj.CoreCompileInputs.cache
